@@ -6,7 +6,9 @@
     'summary': 'All in one place for effective delivery',
     'description': """ Module that handles everything on hospital management""",
     'depends': [],
-    'data': [ ],
+    'data': [
+        'views/menu.xml'
+    ],
     'demo': [ ],
     'installable': True,
     'auto_install': False,
